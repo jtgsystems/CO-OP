@@ -1,7 +1,55 @@
 # CO-OP Master Guide 2026
 ## Complete Developer Onboarding Curriculum
 
-**Version:** 2.0 | **Last Updated:** February 19, 2026
+**Version:** 3.0 | **Last Updated:** February 19, 2026
+
+---
+
+## 🎯 Program Philosophy: AI-First Generalist
+
+**Read this before anything else.**
+
+The technology landscape changes too fast for specialization. Commands you memorize today will be deprecated in 6 months. Tools you master deeply will be replaced by better alternatives.
+
+**The winning strategy in 2026:**
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  AI-FIRST GENERALIST                                                │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ❌ OLD: "I'm the Docker expert"                                    │
+│  ✅ NEW: "I understand containers, AI handles the Dockerfile"       │
+│                                                                      │
+│  ❌ OLD: "I memorized 500 git commands"                             │
+│  ✅ NEW: "Git = version control, AI generates the commands"         │
+│                                                                      │
+│  ❌ OLD: "I'm a PostgreSQL specialist"                              │
+│  ✅ NEW: "Databases store data, AI sets up and secures them"        │
+│                                                                      │
+│  ❌ OLD: "I manually track security updates"                        │
+│  ✅ NEW: "AI scans for vulnerabilities and creates fixes"           │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### What You'll Actually Learn
+
+| Old Way (Dying) | New Way (2026) |
+|-----------------|----------------|
+| Master one tool deeply | Understand what tools do |
+| Memorize commands | Let AI generate commands |
+| Manual security checks | AI-powered scanning |
+| Read 500-page books | Ask AI for examples |
+| Work in silos | Orchestrate AI workflows |
+
+### Your Core Skills (AI-Proof)
+
+1. **Problem Decomposition** - Break big problems into AI-solvable chunks
+2. **Architecture** - Know what tools exist and when to use them
+3. **Verification** - Check AI's output actually works
+4. **Communication** - Explain technical concepts to humans
+5. **Security Awareness** - Know what's risky, let AI find/fix it
 
 ---
 
@@ -9,14 +57,14 @@
 
 | Document | Purpose |
 |----------|---------|
+| [STUDENT_ONBOARDING.md](./STUDENT_ONBOARDING.md) | **START HERE** - Philosophy + setup |
 | [CURRICULUM_OVERVIEW.md](./CURRICULUM_OVERVIEW.md) | High-level 4-week program structure |
-| [WEEK_1_FOUNDATION.md](./WEEK_1_FOUNDATION.md) | Environment setup, AI tools, CLI essentials |
-| [WEEK_2_BACKEND.md](./WEEK_2_BACKEND.md) | Firebase, PostgreSQL, security automation |
-| [WEEK_3_AUTOMATION.md](./WEEK_3_AUTOMATION.md) | CI/CD, zero-downtime deployments, Docker |
-| [WEEK_4_INTEGRATION.md](./WEEK_4_INTEGRATION.md) | Discord, Twilio, OpenClaw, job automation |
-| [SOTA_TOOLS_CHECKLIST.md](./SOTA_TOOLS_CHECKLIST.md) | 128+ tools verification list |
-| [AI_TOOLS_RESEARCH_2026.md](./AI_TOOLS_RESEARCH_2026.md) | Claude Code, Windsurf, Gemini CLI, GSD |
-| [OPENCLAW_INTEGRATION.md](./OPENCLAW_INTEGRATION.md) | OpenClaw setup and use cases |
+| [WEEK_1_FOUNDATION.md](./WEEK_1_FOUNDATION.md) | AI tools, prompt engineering, verification |
+| [WEEK_2_BACKEND.md](./WEEK_2_BACKEND.md) | Databases, APIs (AI-assisted) |
+| [WEEK_3_AUTOMATION.md](./WEEK_3_AUTOMATION.md) | Security, CI/CD (AI-automated) |
+| [WEEK_4_INTEGRATION.md](./WEEK_4_INTEGRATION.md) | OpenClaw, Twilio, job automation |
+| [AI_TOOLS_RESEARCH_2026.md](./AI_TOOLS_RESEARCH_2026.md) | Claude Code, Windsurf, Gemini CLI |
+| [OPENCLAW_INTEGRATION.md](./OPENCLAW_INTEGRATION.md) | 24/7 AI assistant setup |
 
 ---
 
@@ -24,43 +72,43 @@
 
 Graduates will be able to:
 
-1. **Build and deploy** full-stack applications with modern tools
-2. **Automate security** scanning and zero-downtime updates
-3. **Integrate AI agents** for help desk, research, and job hunting
-4. **Set up monitoring** with SMS/Discord alerts
-5. **Use SOTA 2026 tools** for maximum productivity
+1. **Ship anything with AI** - Use AI as primary tool, not helper
+2. **Orchestrate workflows** - Connect systems and automate tasks
+3. **Verify AI output** - Check that code actually works and is secure
+4. **Learn new tools fast** - Understand concepts, let AI handle syntax
+5. **Stay current automatically** - AI tracks updates, you implement
 
 ---
 
 ## 📅 4-Week Overview
 
-### Week 1: Foundation & AI Tools
-- Day 1: OS setup, Node.js, Python 3.12+
-- Day 2: 128+ SOTA CLI tools (eza, bat, ripgrep, television, succinctly, qsv, oxlint)
-- Day 3: Git/SSH configuration
-- Day 4: **Claude Code CLI** + MCP servers, custom skills
-- Day 5: **Windsurf IDE** (Cascade agent), **Gemini CLI**, **GSD** workflow
+### Week 1: AI Tools Foundation
+- Day 1: **AI Tool Setup** - Antigravity, Claude Code, Windsurf
+- Day 2: **Prompt Engineering** - How to ask AI effectively
+- Day 3: **Verification** - Check AI's output, understand what it did
+- Day 4: **Iteration** - Refine when AI doesn't get it right
+- Day 5: **Project** - Ship something with AI assistance
 
-### Week 2: Backend & Security
-- Day 1: Firebase project setup, Firestore security rules
-- Day 2: Supabase PostgreSQL, RLS policies
-- Day 3: REST API with Express.js
-- Day 4: Security automation (npm audit, Snyk, Trivy, GitHub Actions)
-- Day 5: Automated backups and monitoring
+### Week 2: Backend & Data (AI-Assisted)
+- Day 1: **Databases** - Understand concepts, AI sets up PostgreSQL
+- Day 2: **APIs** - REST/GraphQL, AI handles the implementation
+- Day 3: **Authentication** - Security patterns, AI generates secure code
+- Day 4: **Testing** - AI writes tests, you verify coverage
+- Day 5: **Project** - Build a full API with AI
 
-### Week 3: DevOps & Zero-Downtime
-- Day 1: Server hardening (SSH, UFW firewall)
-- Day 2: GitHub Actions CI/CD pipeline
-- Day 3: Blue-green deployment, canary releases
-- Day 4: Docker multi-stage builds
-- Day 5: Auto-update scripts, Certbot SSL
+### Week 3: Security & DevOps (AI-Automated)
+- Day 1: **Security Scanning** - AI finds vulnerabilities, creates fixes
+- Day 2: **CI/CD** - AI builds deployment pipelines
+- Day 3: **Monitoring** - AI sets up alerts (Twilio, Discord)
+- Day 4: **Containers** - Understand Docker, AI writes Dockerfiles
+- Day 5: **Project** - Automated security + deployment
 
-### Week 4: Automation & Integration
-- Day 1: Discord bot development + monitoring
-- Day 2: **Twilio SMS/voice alerts**
-- Day 3: **OpenClaw** help desk setup
-- Day 4: Job automation workflows (AI cover letters, application tracking)
-- Day 5: Capstone integration
+### Week 4: Integration & Automation
+- Day 1: **OpenClaw** - 24/7 AI assistant setup
+- Day 2: **Workflows** - Connect AI tools together
+- Day 3: **Job Automation** - AI cover letters, application tracking
+- Day 4: **Research** - AI-powered information gathering
+- Day 5: **Capstone** - Ship a complete AI-orchestrated project
 
 ---
 
