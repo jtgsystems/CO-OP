@@ -437,9 +437,9 @@ Students get **lifetime access** to all five specialized Discord servers:
 |--------|-------|-------|-----------|
 | **Cybersecurity** | Security, pentesting, vulnerabilities | 🛡️ | Threat analysis, CVEs, security best practices |
 | **Software Development** | Backend, algorithms, system design | 💻 | Core programming, architecture patterns |
-| **Web Development** | Frontend, full-stack, frameworks | 🌐 | React, Next.js, databases, APIs |
-| **AI/ML** | Machine learning, LLMs, AI orchestration | 🤖 | Prompting, local models, AI workflows |
-| **Network Administration** | Networks, infrastructure, DevOps | 🔌 | Sysadmin, cloud, deployment, monitoring |
+| **Web Development** | Frontend, full-stack, frameworks | 🌐 | React, Next.js, databases, APIs | [→ Careers](./CAREER_ADVICE_2026.md#3-web-development) |
+| **AI/ML** | Machine learning, LLMs, AI orchestration | 🤖 | Prompting, local models, AI workflows | [→ Careers](./CAREER_ADVICE_2026.md#4-aiml-engineering) |
+| **Network Administration** | Networks, infrastructure, DevOps | 🔌 | Sysadmin, cloud, deployment, monitoring | [→ Careers](./CAREER_ADVICE_2026.md#5-network-administration--devops) |
 
 **Why specialize?** Each server has domain experts. Cross-pollinate skills by participating in multiple communities.
 

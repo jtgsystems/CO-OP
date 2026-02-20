@@ -91,15 +91,17 @@ You're not getting a 4-week course. You're joining a community.
 
 You get access to **ALL FIVE** specialized Discord servers—each focused on a different tech domain. Cross-pollinate skills, ask domain-specific questions, and build a network across the full tech stack.
 
-| Server | Focus | Best For |
-|--------|-------|----------|
-| 🛡️ **Cybersecurity** | Security, pentesting, vulnerabilities | Learning threat analysis, security best practices |
-| 💻 **Software Development** | Backend, algorithms, system design | Core programming, software architecture |
-| 🌐 **Web Development** | Frontend, full-stack, frameworks | React, Next.js, databases, APIs |
-| 🤖 **AI/ML** | Machine learning, LLMs, AI orchestration | Prompting, local models, AI workflows |
-| 🔌 **Network Administration** | Networks, infrastructure, DevOps | Sysadmin, cloud, deployment, monitoring |
+| Server | Focus | Best For | Career Guide |
+|--------|-------|----------|-------------|
+| 🛡️ **Cybersecurity** | Security, pentesting, vulnerabilities | Learning threat analysis, security best practices | [→ Cyber Careers](./CAREER_ADVICE_2026.md#1-cybersecurity) |
+| 💻 **Software Development** | Backend, algorithms, system design | Core programming, software architecture | [→ Software Dev Careers](./CAREER_ADVICE_2026.md#2-software-development) |
+| 🌐 **Web Development** | Frontend, full-stack, frameworks | React, Next.js, databases, APIs | [→ Web Dev Careers](./CAREER_ADVICE_2026.md#3-web-development) |
+| 🤖 **AI/ML** | Machine learning, LLMs, AI orchestration | Prompting, local models, AI workflows | [→ AI/ML Careers](./CAREER_ADVICE_2026.md#4-aiml-engineering) |
+| 🔌 **Network Administration** | Networks, infrastructure, DevOps | Sysadmin, cloud, deployment, monitoring | [→ Network/DevOps Careers](./CAREER_ADVICE_2026.md#5-network-administration--devops) |
 
 **Why 5 servers?** Specialization = deeper learning. Have a networking question? Go to Network Admin. Building a frontend? Web Dev. Security concern? Cybersecurity. Each community has experts in that domain.
+
+**📖 Career Planning:** See [CAREER_ADVICE_2026.md](./CAREER_ADVICE_2026.md) for 2026 job outlook, salaries, skills, and action items for each domain.
 
 ### How You Fit Into The Field
 
