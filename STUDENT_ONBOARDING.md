@@ -87,6 +87,20 @@ When you're a senior dev: Still here
 You're not getting a 4-week course. You're joining a community.
 ```
 
+### 🌐 JTG Discord Communities (5 Servers)
+
+You get access to **ALL FIVE** specialized Discord servers—each focused on a different tech domain. Cross-pollinate skills, ask domain-specific questions, and build a network across the full tech stack.
+
+| Server | Focus | Best For |
+|--------|-------|----------|
+| 🛡️ **Cybersecurity** | Security, pentesting, vulnerabilities | Learning threat analysis, security best practices |
+| 💻 **Software Development** | Backend, algorithms, system design | Core programming, software architecture |
+| 🌐 **Web Development** | Frontend, full-stack, frameworks | React, Next.js, databases, APIs |
+| 🤖 **AI/ML** | Machine learning, LLMs, AI orchestration | Prompting, local models, AI workflows |
+| 🔌 **Network Administration** | Networks, infrastructure, DevOps | Sysadmin, cloud, deployment, monitoring |
+
+**Why 5 servers?** Specialization = deeper learning. Have a networking question? Go to Network Admin. Building a frontend? Web Dev. Security concern? Cybersecurity. Each community has experts in that domain.
+
 ### How You Fit Into The Field
 
 **The industry shifted.** The old path (junior → senior → architect) still exists, but **AI accelerates everything**.
@@ -306,7 +320,7 @@ Send to: **jtgsystems@gmail.com**
 ## 🆘 Getting Help
 
 1. **Ask AI first** - It's faster than docs
-2. **Discord community** - For human collaboration
+2. **Discord communities** - 5 specialized servers for domain-specific help
 3. **OpenClaw** - For automation and tasks
 
 ---
@@ -329,7 +343,7 @@ Before Day 1, confirm:
 - [ ] OS is updated (macOS or Ubuntu)
 - [ ] Created GitHub account
 - [ ] Can access Antigravity (or have alternative ready)
-- [ ] Joined Discord community
+- [ ] Joined Discord communities (all 5 servers: Cyber, Software Dev, Web Dev, AI/ML, Network Admin)
 - [ ] Understand: **AI is your primary tool, not a helper**
 
 ---

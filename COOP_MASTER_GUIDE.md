@@ -420,11 +420,27 @@ trackApplication('TechCorp', 'Senior React Developer', 'Applied');
 
 ## 🚀 Next Steps
 
-1. **Start with** [00_START_HERE_VIBE_CODING.md](./00_START_HERE_VIBE_CODING.md)
+1. **Start with** [STUDENT_ONBOARDING.md](./STUDENT_ONBOARDING.md)
 2. **Install tools** from [SOTA_TOOLS_CHECKLIST.md](./SOTA_TOOLS_CHECKLIST.md)
 3. **Follow** [WEEK_1_FOUNDATION.md](./WEEK_1_FOUNDATION.md) for Day 1-5
-4. **Join Discord** for community support
+4. **Join all 5 Discord servers** (Cyber, Software Dev, Web Dev, AI/ML, Network Admin)
 5. **Build capstone** using Week 4 integration skills
+
+---
+
+## 🌐 JTG Discord Communities
+
+Students get **lifetime access** to all five specialized Discord servers:
+
+| Server | Focus | Emoji | Ask About |
+|--------|-------|-------|-----------|
+| **Cybersecurity** | Security, pentesting, vulnerabilities | 🛡️ | Threat analysis, CVEs, security best practices |
+| **Software Development** | Backend, algorithms, system design | 💻 | Core programming, architecture patterns |
+| **Web Development** | Frontend, full-stack, frameworks | 🌐 | React, Next.js, databases, APIs |
+| **AI/ML** | Machine learning, LLMs, AI orchestration | 🤖 | Prompting, local models, AI workflows |
+| **Network Administration** | Networks, infrastructure, DevOps | 🔌 | Sysadmin, cloud, deployment, monitoring |
+
+**Why specialize?** Each server has domain experts. Cross-pollinate skills by participating in multiple communities.
 
 ---
 
