@@ -59,6 +59,7 @@ The technology landscape changes too fast for specialization. Commands you memor
 |----------|---------|
 | [STUDENT_ONBOARDING.md](./STUDENT_ONBOARDING.md) | **START HERE** - Philosophy + setup |
 | [CURRICULUM_OVERVIEW.md](./CURRICULUM_OVERVIEW.md) | High-level 4-week program structure |
+| [CAREER_ADVICE_2026.md](./CAREER_ADVICE_2026.md) | **NEW** - 2026 career paths for all 5 domains |
 | [WEEK_1_FOUNDATION.md](./WEEK_1_FOUNDATION.md) | AI tools, prompt engineering, verification |
 | [WEEK_2_BACKEND.md](./WEEK_2_BACKEND.md) | Databases, APIs (AI-assisted) |
 | [WEEK_3_AUTOMATION.md](./WEEK_3_AUTOMATION.md) | Security, CI/CD (AI-automated) |
