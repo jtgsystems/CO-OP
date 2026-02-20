@@ -47,6 +47,78 @@ The old way: Memorize hundreds of commands, master one niche tool, hope it doesn
 
 ---
 
+## 💰 Was College Worth It? Your Investment, Realized
+
+**Yes. And here's why.**
+
+Many students worry about:
+- "Did I waste money on college?"
+- "Will AI replace me before I start?"
+- "How do I fit into this field?"
+
+**The truth:** College gave you the foundation. This practicum extracts its value.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  YOUR EDUCATION VALUE CHAIN                                     │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  College → Gave you concepts, theory, problem-solving mindset   │
+│     ↓                                                            │
+│  This Practicum → Bridges theory to real-world AI workflows     │
+│     ↓                                                            │
+│  Career → You enter the field READY for 2026 and beyond         │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### You're Not Alone — Lifetime Support
+
+**Discord Access: Lifetime.** No expiry. You're a member for life.
+
+**The JTG AI Assistant (OpenClaw):** As long as AI exists, it's here to help you.
+
+```
+Today: Ask about code, security, jobs, debugging
+1 year from now: Still here
+5 years from now: Still here
+When you're a senior dev: Still here
+
+You're not getting a 4-week course. You're joining a community.
+```
+
+### How You Fit Into The Field
+
+**The industry shifted.** The old path (junior → senior → architect) still exists, but **AI accelerates everything**.
+
+| Old Path | New Path (With This Practicum) |
+|----------|-------------------------------|
+| Year 1-2: Struggle, learn basics | **Week 1-4:** Ship real projects with AI |
+| Year 3-5: Gain expertise | **Month 2-6:** Build portfolio with AI assistance |
+| Year 5+: Senior role | **Year 1:** Compete for mid-level roles |
+
+You're not entering the field at a disadvantage. You're entering with an **unfair advantage** — you know how to use AI effectively.
+
+### Your Investment Timeline
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  COLLEGE INVESTMENT → REALIZED VALUE                             │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  Tuition Paid         → Concepts, degree, foundation            │
+│  + This Practicum     → AI skills, real projects, network        │
+│  + Lifetime Discord   → Ongoing support, job leads, help         │
+│  + JTG AI Assistant   → 24/7 help, forever                      │
+│  =                    → Career-ready, future-proof               │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**The ROI doesn't happen at graduation. It happens when you ship your first AI-assisted project.** We're here to make that happen in Week 1.
+
+---
+
 ## 📋 Pre-Course Checklist
 
 Complete these **before Day 1** of the CO-OP program.
