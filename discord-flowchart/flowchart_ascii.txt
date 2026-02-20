@@ -1,0 +1,48 @@
++---------------------+
+|   Student Signs In  |  (Command: /signin)
++----------+----------+
+           |
+           v
++---------------------+
+|  Bot Requests Topic |  "What are you working on?"
++----------+----------+
+           |
+           v
++---------------------+
+| Student Inputs Topic|  e.g., "Quantum Computing"
++----------+----------+
+           |
+           v
++---------------------+
+| Bot Queries 2026 DB |  (Accessing Future Archives...)
++----------+----------+
+           |
+           v
++---------------------+
+| Bot Gives Advice    |  "In 2026, we focus on..."
++----------+----------+
+           |
+           v
++---------------------+
+|   WORK SESSION      |  (Time Passes)
++----------+----------+
+           |
+           v
++---------------------+
+|  Student Signs Out  |  (Command: /signout)
++----------+----------+
+           |
+           v
++---------------------+
+| Bot Requests Learnings| "What did you learn?"
++----------+----------+
+           |
+           v
++---------------------+
+| Student Logs Learning| "I learned about..."
++----------+----------+
+           |
+           v
++---------------------+
+| Bot Saves & End     |  (Session Complete)
++---------------------+

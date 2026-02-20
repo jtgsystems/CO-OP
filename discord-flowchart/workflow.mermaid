@@ -1,0 +1,16 @@
+graph TD
+    A[Student Signs In] -->|/signin| B(Bot Requests Topic)
+    B --> C{Student Inputs Topic}
+    C -->|Topic Received| D[Bot Queries 2026 Knowledge Base]
+    D --> E[Bot Offers 2026-Era Advice]
+    E --> F[Student Work Session]
+    F --> G[Student Signs Out]
+    G -->|/signout| H(Bot Requests Learning Log)
+    H --> I{Student Inputs Learnings}
+    I --> J[Bot Logs Session & Congratulates]
+    
+    style A fill:#2a2a2a,stroke:#00d9ff,stroke-width:2px,color:#fff
+    style B fill:#1a1a1a,stroke:#bb00ff,stroke-width:2px,color:#fff
+    style D fill:#000033,stroke:#00d9ff,stroke-width:4px,color:#fff
+    style E fill:#000033,stroke:#00d9ff,stroke-width:2px,color:#fff
+    style J fill:#2a2a2a,stroke:#00ff00,stroke-width:2px,color:#fff
